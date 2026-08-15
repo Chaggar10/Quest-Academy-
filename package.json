@@ -1,0 +1,12 @@
+{
+  "name": "questy-academy",
+  "version": "1.0.0",
+  "description": "A full-stack elementary educational game for grades 1-4 using React, Node.js, and Express.",
+  "scripts": {
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
