@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1780805741305",
+    "name": "Bob",
+    "email": "chaggarharman9@gmail.com",
+    "password": "$2a$10$0gANprrW0CQBNyySbwyMNeP/0l5MVpnLxlbzK1zqV65D4063NV0au",
+    "grade": "2",
+    "avatar": "🦁",
+    "coins": 25,
+    "xp": 150,
+    "level": 2,
+    "completedLevels": [
+      "math-1",
+      "science-1",
+      "math-2"
+    ],
+    "unlockedItems": [
+      "starter-badge",
+      "gold-crown"
+    ],
+    "equippedItems": [
+      "gold-crown"
+    ],
+    "achievements": [
+      "Perfect Score Star",
+      "First Shop Unlock"
+    ]
+  }
+]
